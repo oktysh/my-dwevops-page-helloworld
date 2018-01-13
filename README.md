@@ -5,3 +5,5 @@ This sample demonstrates a tiny Hello World node.js app for [App Service Web App
 # Contributing
 
 I delete some string from this file!
+
+add some new text to my file and it is end
